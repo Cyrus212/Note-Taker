@@ -13,5 +13,5 @@ This project is a simple and efficient note-taking application.
 
 To use this application, navigate to the homepage and click on the "Get Started" button. This will take you to the notes page where you can view, create, and delete notes.
 
-![homepage](assets/images/homepage.png)
-![notes page](assets/images/notespage.png)
+![homepage](public/assets/images/homepage.png)
+![notes page](public/assets/images/notespage.png)
